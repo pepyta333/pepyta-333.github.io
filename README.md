@@ -1,2 +1,2 @@
-# pepyta333.github.io
+# pepyta-333.github.io
 mókusproject
